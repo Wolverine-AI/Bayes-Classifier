@@ -13,12 +13,12 @@
    
 ## EDA
    ![](image/decision_boundary.png)
-   <img src="image/linear.png" width ="500" height="300" >
-   ![](image/spam.png)
+   ![](image/linear.png)
    ![](image/donut.png)
    ![](image/pia.png)
    ![](image/fish.png)
    ![](image/skull.png)
+   ![](image/spam.png)
    ![](image/ham.png)
    ![](image/spam2.png)
 ## Model
