@@ -1,5 +1,5 @@
 # Bayes Classifier : Project Overview
-<img align="center" src="image/bayes.jpeg" alt="bayes">
+<img src="image/bayes.jpeg" margin-left:auto/>
 * Build a home valuation tool
    
 
