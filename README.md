@@ -9,7 +9,7 @@
   People who want to value of home in Bosten area by their requirements.
 
 ## Gather Data
-  Get details about [Boston Dataset](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_boston.html)
+  Get the corpus from this  [Websites](https://spamassassin.apache.org/old/publiccorpus/)
    
 ## EDA
    ![](image/decision_boundary.png)
