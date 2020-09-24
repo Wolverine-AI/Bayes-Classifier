@@ -1,5 +1,5 @@
 # Bayes Classifier : Project Overview
-<img src="image/bayes.jpeg" margin-left:auto/>
+<img src="image/bayes.jpeg" margin-left="400">
 * Build a home valuation tool
    
 
@@ -12,12 +12,13 @@
   Get details about [Boston Dataset](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_boston.html)
    
 ## EDA
-   ![](images/avg_no_room.png)
-   <img src="images/distance.png" width ="500" height="300" >
-   ![](images/download.png)
-   ![](images/house_price.png)
-   ![](images/room_price.png)
-   ![](images/heatmap.png)
-      
-      
+   ![](image/decision_boundary.png)
+   <img src="image/linear.png" width ="500" height="300" >
+   ![](image/spam.png)
+   ![](image/donut.png)
+   ![](image/pia.png)
+   ![](image/fish.png)
+   ![](image/skull.png)
+   ![](image/ham.png)
+   ![](image/spam2.png)
 ## Model
