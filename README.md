@@ -1,5 +1,5 @@
 # Bayes Classifier : Project Overview
-![](images/boston.png)
+![](images/bayes.jpeg)
 * Build a home valuation tool
    
 
