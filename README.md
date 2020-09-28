@@ -16,7 +16,7 @@
    ![](image/decision_boundary.png)
    ![](image/donut.png)
    ![](image/skull.png)
-   ![](image/spam.png)
    ![](image/ham.png)
    ![](image/spam2.png)
+   ![](image/spam.png)
 ## Model
