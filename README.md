@@ -12,8 +12,8 @@
   Get the corpus from this  [Websites](https://spamassassin.apache.org/old/publiccorpus/)
    
 ## EDA
+   ![](image/linear.png)
    ![](image/decision_boundary.png)
-   
    ![](image/donut.png)
    ![](image/pia.png)
    ![](image/fish.png)
