@@ -15,8 +15,6 @@
    ![](image/linear.png)
    ![](image/decision_boundary.png)
    ![](image/donut.png)
-   ![](image/pia.png)
-   ![](image/fish.png)
    ![](image/skull.png)
    ![](image/spam.png)
    ![](image/ham.png)
