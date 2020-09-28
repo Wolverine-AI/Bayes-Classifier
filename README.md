@@ -13,7 +13,7 @@
    
 ## EDA
    ![](image/decision_boundary.png)
-   ![](image/linear.png)
+   
    ![](image/donut.png)
    ![](image/pia.png)
    ![](image/fish.png)
