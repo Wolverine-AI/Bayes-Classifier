@@ -18,5 +18,4 @@
    ![](image/skull.png)
    ![](image/ham.png)
    ![](image/spam2.png)
-   ![](image/spam.png)
 ## Model
